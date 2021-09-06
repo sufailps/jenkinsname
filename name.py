@@ -1,3 +1,3 @@
   
 with open("name.txt","w") as fd:
-	fd.write("Sufail Ps")
+	fd.write("Sufail")
